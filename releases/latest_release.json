@@ -1,0 +1,11 @@
+{
+  "version": "2.1.0",
+  "channel": "stable",
+  "published_at": "2026-10-31T15:21:10Z",
+  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v2.1.0/DONKEY_BOSS_Setup_v2.1.0.exe",
+  "sha256": "3219a8c8add8cba118a0e93a3d7142be3f1ab91fba22ad1d80de70d857381cbb",
+  "size_bytes": 115208073,
+  "mandatory": false,
+  "min_supported_version": "2.0.0",
+  "release_notes": "DONKEY BOSS v2.1.0 — ตกแต่งเอฟเฟกต์ Matrix Digital Rain เคลื่อนไหวสดในแถบเมนูซ้าย (Sidebar) และแถบสถานะด้านบน (Top Status Bar) ด้วย Zero-Jank Sprite Atlas Engine"
+}
