@@ -1,0 +1,11 @@
+{
+  "version": "2.1.1",
+  "channel": "stable",
+  "published_at": "2026-10-31T16:26:07Z",
+  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v2.1.1/DONKEY_BOSS_Setup_v2.1.1.exe",
+  "sha256": "31925b84dddd1e2e25d8bcae04f897415ac28963b01a58d8ae4625833c5fbd7e",
+  "size_bytes": 115211978,
+  "mandatory": false,
+  "min_supported_version": "2.0.0",
+  "release_notes": "DONKEY BOSS v2.1.1 — แก้ไขการแสดงผลกล่องและแอนิเมชัน Matrix Digital Rain แถบด้านบนให้แสดงครบเต็มกรอบ + ปิดกั้นหน้าต่าง cmd สีดำเด้งแวบระหว่างส่งผ่านขั้นตอน 100% (Global Silent Subprocess Guard)"
+}
