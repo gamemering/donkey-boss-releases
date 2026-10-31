@@ -1,0 +1,11 @@
+{
+  "version": "2.0.1",
+  "channel": "stable",
+  "published_at": "2026-10-31T14:04:04Z",
+  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v2.0.1/DONKEY_BOSS_Setup_v2.0.1.exe",
+  "sha256": "5513e1e30de29151c7a65af9c7fdb3140fc9b0326912fa68efe449d675971089",
+  "size_bytes": 115188487,
+  "mandatory": false,
+  "min_supported_version": "2.0.0",
+  "release_notes": "DONKEY BOSS v2.0.1 — ปรับโครงสร้าง Clean Architecture, แยกโมดูล Google Flow, ปรับปรุงศูนย์อัปเดต OTA ปิดและเปิดตัวเองใหม่อัตโนมัติ"
+}
