@@ -1,0 +1,11 @@
+{
+  "version": "2.0.2",
+  "channel": "stable",
+  "published_at": "2026-10-31T14:21:50Z",
+  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v2.0.2/DONKEY_BOSS_Setup_v2.0.2.exe",
+  "sha256": "4ac14670a452f62b465e11c545969a505d62f7a51ee19668a11a1d3e19f57010",
+  "size_bytes": 115189558,
+  "mandatory": false,
+  "min_supported_version": "2.0.0",
+  "release_notes": "DONKEY BOSS v2.0.2 — ระบบอัปเดตเบื้องหลัง Windows 11 แบบไร้หน้าจอดำ 100% (Auto-Close & Auto-Relaunch)"
+}
