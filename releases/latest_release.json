@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "channel": "stable",
+  "published_at": "2026-10-31T12:00:46Z",
+  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v2.0.0/DONKEY_BOSS_Setup_v2.0.0.exe",
+  "sha256": "031aac339984e18668a522615f1f7cdca84554feae67b720f8660c9391ecd177",
+  "size_bytes": 115184217,
+  "mandatory": false,
+  "min_supported_version": "2.0.0",
+  "release_notes": "DONKEY BOSS v2.0.0 — Cyber-Boss Neon UI, Zero-Jank Engine & Online OTA"
+}
