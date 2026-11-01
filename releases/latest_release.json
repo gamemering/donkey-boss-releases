@@ -1,0 +1,11 @@
+{
+  "version": "3.0.1",
+  "channel": "stable",
+  "published_at": "2026-11-01T09:23:39Z",
+  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v3.0.1/DONKEY_BOSS_Setup_v3.0.1.exe",
+  "sha256": "8d021ffd82524e29564e4c6631cf34a97fe97046164c37d1ff0366d2d28ea56e",
+  "size_bytes": 117390533,
+  "mandatory": false,
+  "min_supported_version": "2.0.0",
+  "release_notes": "✨ DONKEY BOSS PRO v3.0.1 — Cyber-Matrix Typography & Clean HUD Polish (บนเอนจินใหม่ Direct3D11 WebView2 GPU):\n• 🎨 Cyber-Matrix Typography (Orbitron & Chakra Petch): ปรับแต่งฟอนต์และเฉดสีนีออนเมทริกซ์เรืองแสงให้คำว่า DONKEY BOSS และ AFFILIATE HELPER เข้ากับภาพแบนเนอร์ BOSS อย่างลงตัว (ฝังฟอนต์ในตัวโปรแกรม แสดงผลคมชัด 100% แม้ไม่ออนไลน์)\n• 🧹 Clean Executive HUD: นำป้ายกล่อง Mode และป้ายวัดค่า GPU/FPS ด้านบนรวมถึงคำว่า GPU ใต้โปรไฟล์ออก เพื่อความสะอาดตาแบบแอพมืออาชีพ\n• ⚡ Hardware-Accelerated Direct3D11 GPU Engine (60–172 FPS): คงพลังเรนเดอร์กราฟิกด้วยการ์ดจอเต็มสปีดเบื้องหลัง 100% พร้อมสายฝนรหัส The Matrix ทุกหน้า (ยกเว้นช่อง System Logs พื้นดำทึบ #050A07 อ่านชัดสบายตา)"
+}
