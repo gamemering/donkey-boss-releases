@@ -1,0 +1,11 @@
+{
+  "version": "2.3.0",
+  "channel": "stable",
+  "published_at": "2026-11-01T05:57:29Z",
+  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v2.3.0/DONKEY_BOSS_Setup_v2.3.0.exe",
+  "sha256": "07797557127552d855250c9e35010daef4643769af7d8f8bff4227b5be0ac95c",
+  "size_bytes": 115286237,
+  "mandatory": false,
+  "min_supported_version": "2.0.0",
+  "release_notes": "DONKEY BOSS PRO v2.3.0 — เปลี่ยนแบนเนอร์กลาง BOSS และไอคอน/Profile ในแอพเป็นอาร์ตเวิร์ก Matrix Donkey ชุดใหม่ครบทุกจุด (พร้อมรีเฟรชไอคอน Windows อัตโนมัติ) + เพิ่มสายฝนโค้ด The Matrix ไหลในกล่องทุกใบครบทุกหน้าของ Workspace (ยกเว้นช่องอ่านข้อความ System Logs เพื่อความคมชัด)"
+}
