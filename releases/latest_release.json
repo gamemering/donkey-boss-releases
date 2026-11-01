@@ -1,0 +1,11 @@
+{
+  "version": "3.1.0",
+  "channel": "stable",
+  "published_at": "2026-11-01T13:34:24Z",
+  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v3.1.0/DONKEY_BOSS_Setup_v3.1.0.exe",
+  "sha256": "b100aa552f07bb4bc6a029183e41c5a95f927508af0fd86ae41166a4347ac051",
+  "size_bytes": 117445878,
+  "mandatory": false,
+  "min_supported_version": "2.0.0",
+  "release_notes": "DONKEY BOSS PRO v3.1.0 — AI Market Trend & Deal Radar (14 Gemini Presets), Permanent Anti-Duplicate Product Memory, Same-Shop Variant Filter, 18 Shopee Category Deep Rotation & 7 Curated Keyword Packs"
+}
