@@ -1,0 +1,64 @@
+{
+  "manifest_version": "2026.10.31.1",
+  "min_app_version": "2.0.0",
+  "updated_at": "2026-10-31T12:45:00Z",
+  "platforms": {
+    "google_flow": {
+      "target_url": "https://labs.google/fx/tools/flow",
+      "new_project_labels": [
+        "โปรเจ็กต์ใหม่",
+        "New project",
+        "Create project"
+      ],
+      "upload_media_labels": [
+        "อัปโหลดสื่อ",
+        "Upload media",
+        "Upload image"
+      ],
+      "prompt_placeholders": [
+        "คุณต้องการสร้างอะไร",
+        "What do you want to create",
+        "Describe your video"
+      ],
+      "download_resolution_labels": [
+        "720p",
+        "Original size (720p)",
+        "ขนาดต้นฉบับ (720p)"
+      ],
+      "default_timeout_sec": 180
+    },
+    "gemini_web": {
+      "target_url": "https://gemini.google.com/app",
+      "composer_selectors": [
+        "div.ql-editor[contenteditable='true']",
+        "rich-textarea div[contenteditable='true']",
+        "div[role='textbox'][contenteditable='true']"
+      ],
+      "send_button_labels": [
+        "ส่งข้อความ",
+        "Send message"
+      ]
+    },
+    "shopee_affiliate": {
+      "portal_url": "https://affiliate.shopee.co.th/offer/product_offer",
+      "login_check_cookies": [
+        "SPC_SEC_SI",
+        "AC_CERT_D",
+        "SPC_EC"
+      ]
+    },
+    "shopee_android_adb": {
+      "package_name": "com.shopee.th",
+      "post_video_labels": [
+        "โพสต์วิดีโอ",
+        "โพสต์",
+        "Post"
+      ],
+      "add_product_labels": [
+        "เพิ่มสินค้า",
+        "ติดตะกร้า",
+        "Add Product"
+      ]
+    }
+  }
+}

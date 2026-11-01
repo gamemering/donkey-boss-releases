@@ -1,0 +1,11 @@
+{
+  "version": "2.2.0",
+  "channel": "stable",
+  "published_at": "2026-11-01T03:44:11Z",
+  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v2.2.0/DONKEY_BOSS_Setup_v2.2.0.exe",
+  "sha256": "21a275aa8382b7cd420420bfed37b50bc21ac112054eb910e896ed24d9257686",
+  "size_bytes": 115217206,
+  "mandatory": false,
+  "min_supported_version": "2.0.0",
+  "release_notes": "DONKEY BOSS v2.2.0 — ปรับโฉมใหม่ทั้งโปรแกรมเป็นธีม Full Matrix Obsidian (ดำนิล-เขียวมรกตเรืองแสง ไร้สีม่วงขัดตา) พร้อมเพิ่มสายฝน Matrix Digital Rain ในกล่อง Hero กลางหน้า Workspace"
+}
