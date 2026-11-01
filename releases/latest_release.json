@@ -1,0 +1,11 @@
+{
+  "version": "3.0.0",
+  "channel": "stable",
+  "published_at": "2026-11-01T08:41:55Z",
+  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v3.0.0/DONKEY_BOSS_Setup_v3.0.0.exe",
+  "sha256": "b5819855c71acd3d9a29763f4ce56d95ca1ba013c483c82265c797bf6080fb0a",
+  "size_bytes": 117373746,
+  "mandatory": false,
+  "min_supported_version": "2.0.0",
+  "release_notes": "🚀 DONKEY BOSS PRO v3.0.0 — ยกเครื่องเอนจินแสดงผลใหม่ทั้งหมด (Direct3D11 WebView2 GPU Engine Overhaul):\n• ⚡ Hardware-Accelerated Direct3D11 GPU UI (60–144+ FPS VSync): ย้ายจากการวาดพิกเซลบน CPU (Tcl/Tk) สู่เอนจินการ์ดจอ WebView2 (EdgeChromium / Direct3D11 ANGLE) ลื่นติดนิ้วระดับแอพมืออาชีพ สลับแท็บ เลื่อนคิว และเปิดหน้าต่างตั้งค่าไร้จังหวะหน่วงค้าง 100%\n• 🟢 Full-Workspace Matrix Digital Rain & Obsidian Glassmorphism: สายฝนรหัสดิจิทัล Katakana เรนเดอร์ด้วย GPU เบื้องหลังการ์ดกระจกโปร่งแสงครบทั้ง 5 แท็บงาน พร้อมป้ายวัดความเร็วการ์ดจอและ FPS แบบสด (Real-Time GPU & FPS Telemetry)\n• 📜 Solid #050A07 System Logs Console: แยกส่วนแสดงผลข้อความ System Logs ให้เป็นพื้นหลังดำทึบสนิท 100% ไร้สายฝน Matrix รบกวนสายตา พร้อมระบบ Ring-Buffer วาดผลลัพธ์ความเร็วสูง\n• 🎬 Native HTTP 206 Video Streaming & Real-Time SSE Bus: แยกเธรดงานเบื้องหลัง (Shopee Scout, Gemini Chat, Google Flow 9:16, ADB Shopee Video Poster) ออกจากเธรดกราฟิกเด็ดขาด เล่นพรีวิวคลิป MP4 ลื่นไหลทันที\n• 🐴 Matrix Donkey BOSS Edition & Seamless Online OTA: มาพร้อมอาร์ตเวิร์ก BOSS ครบชุด และรองรับการกดอัปเดตออนไลน์ (SHA-256 Verified) โดยข้อมูลคิวและเซสชันล็อกอินเดิมอยู่ครบ 100%"
+}
