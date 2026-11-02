@@ -1,11 +1,11 @@
 {
-  "version": "3.2.0",
+  "version": "3.3.0",
   "channel": "stable",
-  "published_at": "2026-11-01T15:36:32Z",
-  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v3.2.0/DONKEY_BOSS_Setup_v3.2.0.exe",
-  "sha256": "1077a607252af738fea5b330236c003dfb9464204d29e030d4124753d7f745b2",
-  "size_bytes": 117454571,
+  "published_at": "2026-11-02T14:10:22Z",
+  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v3.3.0/DONKEY_BOSS_Setup_v3.3.0.exe",
+  "sha256": "e3fc20c8ea523ee887b850e9f9bea9f409dc8d34453d00874a4029276aa325d2",
+  "size_bytes": 117537110,
   "mandatory": false,
   "min_supported_version": "2.0.0",
-  "release_notes": "DONKEY BOSS PRO v3.2.0 — 3 โหมดหาสินค้าแยกขาดไม่ตีกัน 100% (1. โหมด Deep Dive ขุดหมวดหมู่ลึก 5-20 หน้า + รีเซ็ตหน้าลึก | 2. โหมด AI Market Radar พับ/กางอัตโนมัติ ดึงตรงจากชิปที่เลือก | 3. โหมดคีย์เวิร์ดกำหนดเอง) พร้อมถอด 7 ชุด Keyword สำเร็จรูปให้หน้าจอโล่งสบายตา"
+  "release_notes": "DONKEY BOSS PRO v3.3.0 — Omni-Channel Export Hub (Shopee Video ➔ TikTok Auto-Poster), 4-Pillar Product & Shop Verification Engine & Cyber-Gold Cooldown Spotlight"
 }
