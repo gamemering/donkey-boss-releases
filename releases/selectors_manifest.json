@@ -1,7 +1,7 @@
 {
-  "manifest_version": "2026.10.31.1",
+  "manifest_version": "2026.11.02.1",
   "min_app_version": "2.0.0",
-  "updated_at": "2026-10-31T12:45:00Z",
+  "updated_at": "2026-11-02T16:15:00Z",
   "platforms": {
     "google_flow": {
       "target_url": "https://labs.google/fx/tools/flow",
@@ -58,6 +58,33 @@
         "เพิ่มสินค้า",
         "ติดตะกร้า",
         "Add Product"
+      ]
+    },
+    "tiktok_android_adb": {
+      "package_name": "com.ss.android.ugc.trill",
+      "fallback_package_name": "com.zhiliaoapp.musically",
+      "camera_upload_resource_ids": [
+        "upload_hot_area"
+      ],
+      "gallery_container_resource_ids": [
+        "viewpager_choose_media"
+      ],
+      "editor_sound_resource_ids": [
+        "tv_top_text",
+        "e1l"
+      ],
+      "marketplace_add_content_descs": [
+        "button_add_product",
+        " เพิ่ม"
+      ],
+      "post_video_labels": [
+        "โพสต์",
+        "Post"
+      ],
+      "aigc_disclosure_labels": [
+        "เนื้อหาที่สร้างโดย AI",
+        "การติดป้ายกำกับเนื้อหาที่สร้างโดย AI",
+        "AI-generated content"
       ]
     }
   }
