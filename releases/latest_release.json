@@ -1,11 +1,11 @@
 {
-  "version": "3.3.1",
+  "version": "3.3.2",
   "channel": "stable",
-  "published_at": "2026-11-02T17:30:58Z",
-  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v3.3.1/DONKEY_BOSS_Setup_v3.3.1.exe",
-  "sha256": "6bb921d38a8cf78abd7ccad2da52aee9a101a6a54567d1202dd4a5e7d5ed92cc",
-  "size_bytes": 117553467,
+  "published_at": "2026-11-03T15:23:55Z",
+  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v3.3.2/DONKEY_BOSS_Setup_v3.3.2.exe",
+  "sha256": "2df720e9efcab1d948bef3936404b05faff260f490fe511d7282f910278e960f",
+  "size_bytes": 117582656,
   "mandatory": false,
   "min_supported_version": "2.0.0",
-  "release_notes": "DONKEY BOSS PRO v3.3.1 — แก้ไขหน้าเลือกวิดีโอคลังภาพ TikTok v47, จัดลำดับคลิปใหม่ล่าสุดบน Android 14, ปลดล็อกเพลงติดลิขสิทธิ์ตะกร้าเหลืองอัตโนมัติ และรองรับการอ่านการ์ดสินค้า LynxView จริงครบวงจร"
+  "release_notes": "DONKEY BOSS v3.3.2 — Gemini Multimodal TikTok Basket Judge, Lynx 2-Stage Confirm & Android 16 Paste Search"
 }
