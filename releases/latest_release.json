@@ -1,11 +1,11 @@
 {
-  "version": "3.3.2",
+  "version": "3.3.3",
   "channel": "stable",
-  "published_at": "2026-11-03T15:23:55Z",
-  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v3.3.2/DONKEY_BOSS_Setup_v3.3.2.exe",
-  "sha256": "2df720e9efcab1d948bef3936404b05faff260f490fe511d7282f910278e960f",
-  "size_bytes": 117582656,
+  "published_at": "2026-11-03T16:32:48Z",
+  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v3.3.3/DONKEY_BOSS_Setup_v3.3.3.exe",
+  "sha256": "425cbd1ad25ac25c48c572726112b53173b7b821fbc63deca15d1dd94f569f73",
+  "size_bytes": 117594045,
   "mandatory": false,
   "min_supported_version": "2.0.0",
-  "release_notes": "DONKEY BOSS v3.3.2 — Gemini Multimodal TikTok Basket Judge, Lynx 2-Stage Confirm & Android 16 Paste Search"
+  "release_notes": "DONKEY BOSS v3.3.3 — Fix TikTok Post Submit, Gboard Dismiss & More-Options Sheet Guard"
 }
