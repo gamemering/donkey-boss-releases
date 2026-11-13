@@ -1,0 +1,11 @@
+{
+  "version": "3.4.0",
+  "channel": "stable",
+  "published_at": "2026-11-12T15:27:55Z",
+  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v3.4.0/DONKEY_BOSS_Setup_v3.4.0.exe",
+  "sha256": "cd317c19b4c7fab4d234834d2173d1fddd5b266efeee13e26830b10154bfb4be",
+  "size_bytes": 117660550,
+  "mandatory": false,
+  "min_supported_version": "2.0.0",
+  "release_notes": "DONKEY BOSS v3.4.0 — Dual-Pillar Shopee (Orange) & TikTok x Kalodata Pro (Black) + Shared Google Flow Studio"
+}
