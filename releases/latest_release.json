@@ -1,0 +1,11 @@
+{
+  "version": "3.4.1",
+  "channel": "stable",
+  "published_at": "2026-11-13T13:31:49Z",
+  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v3.4.1/DONKEY_BOSS_Setup_v3.4.1.exe",
+  "sha256": "43f3f591514bfd1fcf1ffc63f29f8ce5df395ef3a77b74c25a3a5605bff7306d",
+  "size_bytes": 117660919,
+  "mandatory": false,
+  "min_supported_version": "2.0.0",
+  "release_notes": "DONKEY BOSS v3.4.1 — Direct Kalodata Basket Attach & Clean TikTok Autopilot UI"
+}
