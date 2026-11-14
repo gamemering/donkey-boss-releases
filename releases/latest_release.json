@@ -1,0 +1,11 @@
+{
+  "version": "3.4.2",
+  "channel": "stable",
+  "published_at": "2026-11-14T04:43:42Z",
+  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v3.4.2/DONKEY_BOSS_Setup_v3.4.2.exe",
+  "sha256": "33e5b2056e5dd7f1cff84a08567b869e72759966d6b2601c6ef6b82067317a0d",
+  "size_bytes": 117668404,
+  "mandatory": false,
+  "min_supported_version": "2.0.0",
+  "release_notes": "DONKEY BOSS v3.4.2 — Kalodata CDN Thumbnail Fix, Hotlink Referer Support & Anti-Loop Scout Guard"
+}
