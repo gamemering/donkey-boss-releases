@@ -1,0 +1,11 @@
+{
+  "version": "3.4.5",
+  "channel": "stable",
+  "published_at": "2026-11-14T13:14:21Z",
+  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v3.4.5/DONKEY_BOSS_Setup_v3.4.5.exe",
+  "sha256": "b968386004eced6713ee7cca47bfe1c31e41c7e26276cd08b70a7f16ab8cec86",
+  "size_bytes": 117698577,
+  "mandatory": false,
+  "min_supported_version": "2.0.0",
+  "release_notes": "DONKEY BOSS v3.4.5 — Per-Platform Gemini Chat Reuse Toggle (No Chat History Clutter) & Strict Shopee vs TikTok Google Flow Project Cleanup Isolation"
+}
