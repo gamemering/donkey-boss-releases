@@ -1,0 +1,11 @@
+{
+  "version": "3.4.4",
+  "channel": "stable",
+  "published_at": "2026-11-14T10:52:00Z",
+  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v3.4.4/DONKEY_BOSS_Setup_v3.4.4.exe",
+  "sha256": "e5bf17e51f31e3289baf4074ffd9efa97a055a8d2b971eca04afb16f9cfaa5a6",
+  "size_bytes": 117695278,
+  "mandatory": false,
+  "min_supported_version": "2.0.0",
+  "release_notes": "DONKEY BOSS v3.4.4 — Clean Studio Product Extractor for Promo Covers, Full-Size Room Realism Engine (No Poster-Boxes), Gemini Citation Sanitizer & Single-Run Thread Guard"
+}
