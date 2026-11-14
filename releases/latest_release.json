@@ -1,0 +1,11 @@
+{
+  "version": "3.4.6",
+  "channel": "stable",
+  "published_at": "2026-11-14T16:04:41Z",
+  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v3.4.6/DONKEY_BOSS_Setup_v3.4.6.exe",
+  "sha256": "c130e7568cf3df9bdcd95093cc876f9c1bbb0c87f9f8d564339fd5bb96d17df9",
+  "size_bytes": 119492268,
+  "mandatory": false,
+  "min_supported_version": "2.0.0",
+  "release_notes": "DONKEY BOSS v3.4.6 — 10 High-Appeal Studio Reviewer Models (Bundled 9:16 Portraits, Zero Elderly), Smart Kids-vs-Adult Product Matching & Coupled Gemini/Flow Voice & Casting Prompts"
+}
