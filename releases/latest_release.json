@@ -1,0 +1,11 @@
+{
+  "version": "3.4.7",
+  "channel": "stable",
+  "published_at": "2026-11-14T18:41:42Z",
+  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v3.4.7/DONKEY_BOSS_Setup_v3.4.7.exe",
+  "sha256": "4adad8abcee1d471fa9600a642255825b867dd6cc30ca50a3d93b659af49e37d",
+  "size_bytes": 119506223,
+  "mandatory": false,
+  "min_supported_version": "2.0.0",
+  "release_notes": "DONKEY BOSS v3.4.7 — แก้ไขระบบปักตะกร้าเหลือง TikTok Shop ถาวร รองรับโชว์เคสว่าง/มีสินค้าเดิม, รอหน้า Lynx Hydrate เต็มที่, ตรวจจับการ์ดสินค้า 2 คอลัมน์ (เพิ่ม,button), ปิดแป้นพิมพ์ Gboard ที่บังปุ่มยืนยันขั้นที่ 2 และตรวจยืนยันชิปตะกร้าเหลืองบนหน้า Post Composer จริง 100%"
+}
