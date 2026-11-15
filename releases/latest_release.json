@@ -1,0 +1,11 @@
+{
+  "version": "3.5.4",
+  "channel": "stable",
+  "published_at": "2026-11-15T15:43:32Z",
+  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v3.5.4/DONKEY_BOSS_Setup_v3.5.4.exe",
+  "sha256": "6602a7e525a8dc68ec984722356d567d747c0657a7dfef9ed8c8815e874f1d2c",
+  "size_bytes": 119555186,
+  "mandatory": false,
+  "min_supported_version": "2.0.0",
+  "release_notes": "DONKEY BOSS v3.5.4 — แก้ไขคำสั่งสแกนไฟล์วิดีโอเข้าคลังภาพ Android 10–16 (--arg /storage/emulated/0/...) ล้างค่าเวลาฝังในไฟล์ MP4 ให้คลิปล่าสุดขึ้นอันดับ 1 เหนือคลิปเก่าใน Camera เสมอ และเพิ่มด่านยืนยันชื่อไฟล์อันดับ 1 (Row 0) ใน MediaStore ก่อนกดเลือกคลิปใน TikTok ป้องกันการหยิบคลิปเก่ามาโพสต์ผิดเรื่อง 100%"
+}
