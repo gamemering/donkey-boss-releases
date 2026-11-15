@@ -1,0 +1,11 @@
+{
+  "version": "3.5.1",
+  "channel": "stable",
+  "published_at": "2026-11-15T10:32:08Z",
+  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v3.5.1/DONKEY_BOSS_Setup_v3.5.1.exe",
+  "sha256": "cf17b0d0303af37b5695f8954385c0cea604f75ade765a56e27176eed314ed76",
+  "size_bytes": 119548461,
+  "mandatory": false,
+  "min_supported_version": "2.0.0",
+  "release_notes": "DONKEY BOSS v3.5.1 — Clean Code ระบบแชท Gemini (อัปโหลดรูปครั้งเดียวแล้ววาง Prompt ส่งทันที ไม่วนลูปเช็ก DOM ประหยัด CPU) + แสดงการทำงานสดบนหน้าเว็บ Kalodata (กดกรองหมวดหมู่/วันที่/ค่าคอม/ราคาจริงต่อหน้า + วนหมวดหมู่ Smart Rotate ไม่ซ้ำสินค้าเดิม)"
+}
