@@ -1,0 +1,11 @@
+{
+  "version": "3.4.8",
+  "channel": "stable",
+  "published_at": "2026-11-15T03:48:45Z",
+  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v3.4.8/DONKEY_BOSS_Setup_v3.4.8.exe",
+  "sha256": "22521e1842d6ae1b5191321ecd6d64b71b788502889e0a57e8f118772381ece0",
+  "size_bytes": 119527612,
+  "mandatory": false,
+  "min_supported_version": "2.0.0",
+  "release_notes": "DONKEY BOSS v3.4.8 — แก้ไขถาวรอัปโหลดรูป Google Flow ล้มเหลว (ลบการ์ดล้มเหลว+อัปซ้ำครบ 2/2 รูป), บังคับแนบรูปสินค้า+ผู้รีวิวเข้าแชท Gemini เดิมทุกคลิป Stack และระบบกู้คืนเซิร์ฟเวอร์ Google Flow 3 ชั้นไม่หยุดคิว"
+}
