@@ -1,0 +1,11 @@
+{
+  "version": "3.4.9",
+  "channel": "stable",
+  "published_at": "2026-11-15T05:23:14Z",
+  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v3.4.9/DONKEY_BOSS_Setup_v3.4.9.exe",
+  "sha256": "0c5e10e0ea76c287adf3cb629d13a2043cd1fedefb530198003f229e7292597b",
+  "size_bytes": 119532616,
+  "mandatory": false,
+  "min_supported_version": "2.0.0",
+  "release_notes": "DONKEY BOSS v3.4.9 — แก้ไขถาวรระบบดึงสินค้า Kalodata ค้างจาก XHR Stream & ป้องกันเธรดเก่ายกเลิกซ้อนเมื่อกดหยุด-เริ่มใหม่ พร้อมอัปเดตชื่อโมเดลวิดีโอเป็น Omni 1.2 Flash ทั้งระบบตาม Google Flow ล่าสุด"
+}
