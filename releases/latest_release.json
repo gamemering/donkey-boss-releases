@@ -1,0 +1,11 @@
+{
+  "version": "3.5.3",
+  "channel": "stable",
+  "published_at": "2026-11-15T14:52:36Z",
+  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v3.5.3/DONKEY_BOSS_Setup_v3.5.3.exe",
+  "sha256": "eae5c9cf01854fb819598d3a7f289502367b310f4ef13794466721afcd2bc448",
+  "size_bytes": 119553254,
+  "mandatory": false,
+  "min_supported_version": "2.0.0",
+  "release_notes": "DONKEY BOSS v3.5.3 — ปรับคำสั่ง Gemini Chat ไม่ให้ชนตัวกรองเครื่องมือสร้างสื่อเมื่อแนบรูปนางแบบ, ล็อกข้อความ Prompt ใน Google Flow เต็ม 10 วินาที (10s) ผูกรูปสินค้าจริง/นางแบบอ้างอิงและบังคับพูดภาษาไทยล้วน, และแก้ไขตัวดึงตาราง Kalodata ให้แมปหัวคอลัมน์อัตราค่าคอมมิชชั่นตรงช่อง (ไม่สับสนกับสัดส่วนวิดีโอ) เพื่อคัดเฉพาะสินค้าที่ปักตะกร้าเหลืองได้จริง"
+}
