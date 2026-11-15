@@ -1,0 +1,11 @@
+{
+  "version": "3.5.2",
+  "channel": "stable",
+  "published_at": "2026-11-15T12:36:50Z",
+  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v3.5.2/DONKEY_BOSS_Setup_v3.5.2.exe",
+  "sha256": "67565e8d03b2b9e3fc6e44199e7bcbb8c567cdee07e48927c36eade67f4506e6",
+  "size_bytes": 119551884,
+  "mandatory": false,
+  "min_supported_version": "2.0.0",
+  "release_notes": "DONKEY BOSS v3.5.2 — แก้ไขการอัปโหลดรูปภาพในแชท Gemini (คืนกลไกส่งไฟล์เข้า <input type='file'> โดยตรง + แยกบล็อกป้องกันข้อผิดพลาดของเมนูอัปโหลด) และกด Escape พับเมนู + เคลียร์ฉากกั้นบังช่องพิมพ์อัตโนมัติพร้อม timeout=4000 วาง Prompt ส่งต่อทันทีโดยไม่ต้องคลิกหน้าจอ"
+}
