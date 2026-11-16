@@ -1,0 +1,11 @@
+{
+  "version": "3.5.5",
+  "channel": "stable",
+  "published_at": "2026-11-16T04:33:32Z",
+  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v3.5.5/DONKEY_BOSS_Setup_v3.5.5.exe",
+  "sha256": "23ac8be0179592c46509cc926c87aa50a17977029ed1acea3554a6e6d82194a2",
+  "size_bytes": 119563208,
+  "mandatory": false,
+  "min_supported_version": "2.0.0",
+  "release_notes": "DONKEY BOSS v3.5.5 — ล้างคำต้องห้ามบุคคลที่มีชื่อเสียง (idol/actress/celebrity) ทั้งระบบ + ครอปเฉพาะตัวสินค้าเมื่อรูปปกร้านค้ามีหน้าคนจริง (CLEAN_PRODUCT_BOX) + ตรวจจับการ์ด Google Flow 'ล้มเหลว / ละเมิดนโยบายบุคคลที่มีชื่อเสียง' ภายใน < 2 วินาทีโดยไม่รอนาน 15 นาที และสลับผู้รีวิวคนใหม่พร้อมส่งให้ Chat Gemini เขียน Prompt + บทพูดชุดใหม่อัตโนมัติ 1 รอบก่อนข้าม"
+}
