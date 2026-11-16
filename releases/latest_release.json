@@ -1,0 +1,11 @@
+{
+  "version": "3.5.7",
+  "channel": "stable",
+  "published_at": "2026-11-16T09:38:32Z",
+  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v3.5.7/DONKEY_BOSS_Setup_v3.5.7.exe",
+  "sha256": "b0e48d0f9b3d68f9ec9fcdde9e3406a22da39f798a240425306e554fa944ed63",
+  "size_bytes": 119588010,
+  "mandatory": false,
+  "min_supported_version": "2.0.0",
+  "release_notes": "DONKEY BOSS v3.5.7 — กันปักสินค้าผิดคลิป 3 ชั้น (ตรวจชื่อการ์ด + เทียบรูปปก + เช็กหน้ายืนยัน & ชิปตะกร้าเหลืองบนหน้าโพสต์ พร้อมค่าเริ่มต้นข้ามการโพสต์ทันทีหากไม่ตรงปก), บังคับพรีเซนเตอร์พูดชื่อสินค้าชัดเจนตรงปก (ไม่ทำชื่อแบรนด์ที่มีคำว่า LINE เพี้ยน), และหยุดโพสต์อัตโนมัติ เก็บคลิปพร้อมโชว์บทพูดพากย์ไทยให้ตรวจก่อนกด 'อัปโหลดที่เลือก' หรือ 'อัปโหลดทั้งหมด' ทั้งฝั่ง Shopee และ TikTok"
+}
