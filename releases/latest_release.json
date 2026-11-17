@@ -1,0 +1,11 @@
+{
+  "version": "3.5.8",
+  "channel": "stable",
+  "published_at": "2026-11-17T10:19:32Z",
+  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v3.5.8/DONKEY_BOSS_Setup_v3.5.8.exe",
+  "sha256": "b37d0915b7469a0a2adb584994d8513635e3cc0cf3bd5a8015022a6fcfba86bd",
+  "size_bytes": 119587406,
+  "mandatory": false,
+  "min_supported_version": "2.0.0",
+  "release_notes": "DONKEY BOSS v3.5.8 — ต่อยอดคลีนจากฐาน v3.5.6: สุ่มสร้างคลิป 50/50 แบบตัวคนเต็มตัวสลับกับแบบเห็นแต่แขนกระทำกับสินค้า (Hands-Only POV), บังคับพรีเซนเตอร์พูดชื่อสินค้าชัดเจนตรงปก, ใช้ระบบปักตะกร้าคลีนของ v3.5.6 ไม่บล็อกการ์ดภาษาไทย, และเก็บคลิปไว้ตรวจเช็กพร้อมช่องติ๊กถูกใช้งานได้จริง + ปุ่ม 'อัปโหลดที่เลือก' / 'อัปโหลดทั้งหมด' เฉพาะในหน้า Queue & Status"
+}
