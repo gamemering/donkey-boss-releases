@@ -1,0 +1,11 @@
+{
+  "version": "3.5.9",
+  "channel": "stable",
+  "published_at": "2026-11-17T13:06:28Z",
+  "download_url": "https://github.com/gamemering/donkey-boss-releases/releases/download/v3.5.9/DONKEY_BOSS_Setup_v3.5.9.exe",
+  "sha256": "3e284e15bccc8fc7380d886e517359055e2cc8ea419e9d53617273e5eb047577",
+  "size_bytes": 119589473,
+  "mandatory": false,
+  "min_supported_version": "2.0.0",
+  "release_notes": "DONKEY BOSS v3.5.9 — เพิ่มตัวเลือก '🚀 โพสต์คลิปทันทีที่สร้างเสร็จ' แยกอิสระระหว่าง Shopee และ TikTok (หากไม่ติ๊กจะพักรอตรวจและสุ่มพัก Cooldown กันสแปม 3–6 นาทีเมื่อกดอัปโหลดจากหน้าคิว), เพิ่มปุ่ม '📂 โฟลเดอร์คลิป' ด้านบนขวาพร้อมคำแนะนำพื้นที่เก็บข้อมูลเมื่อเก็บไฟล์ MP4, และจัดระเบียบปุ่ม + ป้ายเตือน [Missing MP4] ในหน้า Queue & Status ให้คลีนชัดเจน"
+}
